@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoveActivitity</string>
+    <string name="content_judul">computer</string>
+    <string name="content_price">Rp.3.000.000</string>
+    <string name="content_kualitas">100%</string>
+    <string name="pilih_warna">Pilih Warna</string>
+    <string name="merah">Merah</string>
+    <string name="pilih">Pilih</string>
+    <string name="hijau">Hijau</string>
+    <string name="biru">Biru</string>
+    <string name="hitam">Hitam</string>
+    <string name="content_deskripsi">perangkat elektronik yang dapat diprogram
+    yang menerima data mentah sebagai input dan memprosesnya dengan sekumpulan
+    instruksi (program) untuk menghasilkan hasil sebagai output.</string>
+    <string name="content_belisekrang">beli sekarang</string>
+</resources>
